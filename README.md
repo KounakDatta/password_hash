@@ -13,9 +13,6 @@ Launch the Application:
 
 Run the application using the command:
 
-arduino
-Copy
-Edit
 streamlit run app.py
 Your default web browser will open the application interface.
 
