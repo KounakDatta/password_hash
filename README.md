@@ -1,6 +1,6 @@
 🔐 User Guide: Password Hashing and Verification with Bcrypt & Argon2
 📘 Overview
-This application allows you to:
+This application allows you to:  
 
 Hash passwords using Bcrypt and Argon2 algorithms.
 
